@@ -1,0 +1,93 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>page_res/016b3e5b14056ea801202e60cd9a80.png@1280w_1l_2o_100sh.png</file>
+        <file>page_res/320 (1).jpg</file>
+        <file>page_res/320 (2).jpg</file>
+        <file>page_res/320 (3).jpg</file>
+        <file>page_res/320 (4).jpg</file>
+        <file>page_res/320 (5).jpg</file>
+        <file>page_res/320.jpg</file>
+        <file>page_res/400 (1).jpg</file>
+        <file>page_res/400 (2).jpg</file>
+        <file>page_res/400 (3).jpg</file>
+        <file>page_res/400.jpg</file>
+        <file>page_res/2239631.jpg</file>
+        <file>page_res/5575621.jpg</file>
+        <file>page_res/OIP-C.jpg</file>
+        <file>page_res/wyysjyy.webp</file>
+        <file>page_res/风扇.gif</file>
+        <file>page_res/v2-2f8fdbe1863e16ccdf13fdcff07873e4_r.jpg</file>
+        <file>page_res/OIP-C (1).jpg</file>
+        <file>page_res/weather.webp</file>
+        <file>page_res/09dde28feca39c1f2fd2c8e976b0ec85.jpg</file>
+        <file>page_res/cloud-2192567_640.webp</file>
+        <file>page_res/cloud-3000993_640.webp</file>
+        <file>page_res/the-weather-7119136_1920(1).png</file>
+        <file>page_res/weather-7159428_640.webp</file>
+        <file>page_res/weather-7159429_640.webp</file>
+        <file>page_res/weather-7199173_640.webp</file>
+        <file>page_res/weather-7628056_640.webp</file>
+        <file>page_res/灯泡.jpg</file>
+        <file>page_res/fx.jpg</file>
+        <file>page_res/pm25.jpg</file>
+        <file>page_res/空气质量.jpg</file>
+        <file>page_res/湿度.jpg</file>
+        <file>page_res/OIP.jpg</file>
+        <file>page_res/OIP (1).jpg</file>
+        <file>page_res/OIP (2).jpg</file>
+        <file>page_res/OIP (3).jpg</file>
+        <file>page_res/OIP (4).jpg</file>
+        <file>page_res/OIP (5).jpg</file>
+        <file>page_res/OIP (6).jpg</file>
+        <file>page_res/OIP (7).jpg</file>
+        <file>page_res/OIP (8).jpg</file>
+        <file>page_res/灯亮.jpg</file>
+        <file>page_res/灯灭.jpg</file>
+        <file>page_res/风扇动态.gif</file>
+        <file>page_res/风扇停止.jpg</file>
+        <file>page_res/空调动态.gif</file>
+        <file>page_res/空调工作.jpg</file>
+        <file>page_res/空调停止.jpg</file>
+        <file>page_res/抽风机.gif.crdownload</file>
+        <file>page_res/抽风机.jpg</file>
+        <file>page_res/电视.jpg</file>
+        <file>page_res/电视动态.gif</file>
+        <file>page_res/工作油烟机.jpg</file>
+        <file>page_res/油烟机.jpg</file>
+        <file>page_res/clouds.gif</file>
+        <file>page_res/icons8-cloud.gif</file>
+        <file>page_res/icons8-cloud-48.png</file>
+        <file>page_res/icons8-haze.gif</file>
+        <file>page_res/icons8-heavy-rain.gif</file>
+        <file>page_res/icons8-light-rain.gif</file>
+        <file>page_res/icons8-light-snow.gif</file>
+        <file>page_res/icons8-partly-cloudy-day.gif</file>
+        <file>page_res/icons8-rain.gif</file>
+        <file>page_res/icons8-rain-cloud.gif</file>
+        <file>page_res/icons8-rainfall.gif</file>
+        <file>page_res/icons8-snow.gif</file>
+        <file>page_res/icons8-snow-storm.gif</file>
+        <file>page_res/icons8-storm.gif</file>
+        <file>page_res/icons8-sun.gif</file>
+        <file>page_res/icons8-wind.gif</file>
+        <file>page_res/icons8-windy-weather.gif</file>
+        <file>page_res/温度计.jpg</file>
+        <file>page_res/1.jpg</file>
+        <file>page_res/0494e9412.png</file>
+        <file>page_res/45663c9f2ce90.jpg</file>
+        <file>page_res/a.jpg</file>
+        <file>page_res/aaa.jpg</file>
+        <file>page_res/aaaa.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>city_code.txt</file>
+        <file>music/何洁 - 你是我的风景.mp3</file>
+        <file>music/AZU - For You.mp3</file>
+        <file>music/Chanlex - 特别的人.mp3</file>
+        <file>music/Rainton桐 - 最后的旅行（纯歌版）.mp3</file>
+        <file>music/林加弦 - 夏天的风（男声 吉他版）.mp3</file>
+        <file>music/BTS (防弹少年团) - BTS (방탄소년단) 'Dynamite' Official MV.mp4</file>
+        <file>music/BTS (防弹少年团) - BTS (방탄소년단) 'Life Goes On' Official MV.mp4</file>
+        <file>music/悄悄唱歌给华晨宇听 - 烨MV.mp4</file>
+    </qresource>
+</RCC>
